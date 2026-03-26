@@ -12,8 +12,8 @@
 
 ## Important notes
 
-- There are no automated tests to focus on the solution
 - Express for build a simple API as fast as possible
+- MongoDB as database
 
 ## How to run
 
@@ -29,6 +29,11 @@ Mongo Express (or Mongo Compass) to access the database
 
 ```
 http://localhost:8081/
+```
+
+## Testing
+```
+npm run test
 ```
 
 ## Database seed
