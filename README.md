@@ -14,6 +14,7 @@
 
 - Express for build a simple API as fast as possible
 - MongoDB as database
+- Security topics: Request validation, Security headers, CORS
 
 ## How to run
 
@@ -51,6 +52,7 @@ const options = [
 ];
 ```
 
+> https://www.mongodb.com/docs/manual/reference/operator/aggregation/sample/
 
 ### Pick one as the correct answer
 ```
